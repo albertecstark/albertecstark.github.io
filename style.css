@@ -1,0 +1,149 @@
+@font-face {
+  font-family: 'JetBrains Mono', monospace;
+  src: url(fonts/jbr/static/JetBrainsMono-Medium.ttf);
+  font-style: normal;
+}
+
+body{
+  background-color: rgb(120, 120, 120);
+  align-self: center;
+  width: 1080;
+  color: rgb(255, 255, 255);
+}
+
+div a{
+  color: black;
+}
+
+div a:hover{
+  color: aqua;
+}
+
+h1{
+  font-family: monospace;
+  font-size: large;
+  color: black;
+  text-align: left;
+}
+
+h2{
+  padding-left: 50;
+  text-align: left;
+  font-family: monospace;
+}
+
+h3{
+  text-align: center;
+  font-family: monospace;
+}
+
+h4{
+  font-size: medium;
+  font-family: monospace;
+  color: black;
+  text-align: left;
+}
+
+
+#container{
+  text-align: justify;
+  align-self: center;
+  width: 850px;
+  padding: auto;
+  margin: 5px, 5px, 50px;
+  margin: auto;
+}
+
+#div main{
+  /*margin: 10 40;*/
+  padding: 0px 40px 30px 0;
+  text-align: center;
+  font-family: monospace;
+  font-size: large;
+  background-color: rgb(255, 255, 255);
+}
+
+#table, th, td{
+  align-items: center;
+  vertical-align: middle;
+  padding: 50px, 5px;
+  border-radius: 6px;
+  border: 1px solid white;
+  font-family: monospace;
+}
+
+#menu{
+  width: 850px;
+  height: 30px;
+  align-self: center;
+  text-align: center;
+  background-color: rgb(27, 170, 226);
+  border-radius: 5px;
+  /*padding: 6px 0 6px 25px;*/
+  font-family: monospace;
+}
+
+#menu a{
+  align-items: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14pt;
+  font-family: monospace;
+}
+
+#p{
+  margin: 400;
+  width: 1000px;
+  text-align: center;
+  font-family: monospace;
+}
+
+#Explainer{
+  font-family: monospace;
+  align-items: center;
+}
+
+#frames{
+  padding-left: 40;
+  margin-left: 40;
+  text-align: justify;
+  font-family: monospace;
+}
+
+#EPQ{
+  font-family: monospace;
+}
+
+#kobun{
+  font-family: monospace;
+}
+
+#fluidity{
+  font-family: monospace;
+}
+
+#latinum{
+  font-family: monospace;
+}
+
+#JewleryTooling{
+  font-family: monospace;
+}
+
+#hr{
+  margin: 400;
+  width: 850px;
+}
+
+#Amble{
+  margin-right: 1000px;
+  font-family: monospace;
+}
+
+#contact{
+  font-family: monospace;
+}
+
+#footer {
+  /*background-color: rgb(100, 100, 100);*/
+  font-family: monospace;
+}
